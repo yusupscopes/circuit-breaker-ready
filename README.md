@@ -1,4 +1,4 @@
-# 🚦 Go Fintech Circuit Breaker
+# 🚦 Go Circuit Breaker
 
 A production-ready, thread-safe Circuit Breaker implementation in Go, designed to protect microservices from cascading failures when integrating with flaky third-party APIs (like payment gateways or KYC providers).
 
